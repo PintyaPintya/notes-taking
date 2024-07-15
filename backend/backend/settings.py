@@ -49,9 +49,9 @@ SIMPLE_JWT = {
 # Application definition
 
 INSTALLED_APPS = [
-    'api',
-    'rest_framework',
-    'corsheaders',
+    "api",
+    "rest_framework",
+    "corsheaders",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
